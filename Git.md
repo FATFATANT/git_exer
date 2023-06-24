@@ -13,4 +13,5 @@ git中只要commit了，那么版本就无法被删除，只能在此基础上�
 3. git add 将文件添加到暂存区
 4. git rm --cached 可以将暂存区的文件删除
 5. git commit -m 'message' 将暂存区的文件提交到暂存区
-6. 
+6. git reflog 查看引用日志信息
+7. git log 查看详细日志
